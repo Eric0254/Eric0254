@@ -1,14 +1,10 @@
-👋 Hello there! I'm [Eric], a passionate and dedicated student pursuing a degree in Applied Computer Science. 🖥️ Aspiring to make my mark in the world of technology, I'm actively seeking opportunities to contribute and grow in a dynamic environment.
+👋 Hey there! I'm Eric, a student of Applied Computer Science diving into the world of software development.
 
-🚀 My journey in the world of programming has equipped me with a strong foundation in languages like Java, Python, and JavaScript. I thrive on challenges and love to solve real-world problems through elegant and efficient code.
+🌐 I thrive in the realms of Java, HTML, CSS, JavaScript, PHP, and React Native. Crafting with code is my passion, and I'm particularly drawn to building APIs that make applications tick.
 
-🌱 Currently, I'm honing my skills in web development, database management, and software engineering. I'm an avid learner, constantly exploring new technologies and best practices to stay at the forefront of innovation.
+🚀 My GitHub hosts a collection of projects that reflect my coding journey, from creating interactive web interfaces to developing seamless mobile experiences.
 
-💼 I'm excited about collaborating on meaningful projects and contributing to open-source initiatives. My GitHub repository showcases a range of projects that reflect my learning journey and passion for coding.
-
-📬 Let's connect! Whether it's discussing potential opportunities, sharing knowledge, or collaborating on exciting projects, I'm always open to new connections and experiences. Feel free to reach out via email at eric.d.sv2@gamil.com or connect with me here on GitHub.
-
-Thank you for visiting my profile, and I look forward to exploring the endless possibilities that the world of software development has to offer! 🌟
+💼 Open to exciting collaborations and eager to contribute my skills to meaningful projects. Let's team up!
 
 
 **IDE:**
